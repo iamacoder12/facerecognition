@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+    color:white;
+}
+
+.heading{
+    width:80%;
+    font-size: 22px; 
+}
+
+.name_of_person{
+    color:blueviolet;
+}
+
+#camera{
+    border: 2px solid black; 
+}
+
+#result_person_name, #result_person_accuracy{
+    color:blueviolet;
+}
